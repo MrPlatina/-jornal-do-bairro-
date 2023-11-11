@@ -1,0 +1,25 @@
+form{
+width: 245px;
+background-color: rgb(105, 105, 105);
+justify-content: center;
+align-content: center;
+}
+body{
+    background-color: rgb(105, 105, 105);
+
+
+}
+header
+{
+    background-color: rgb(105, 105, 105);
+}
+main{
+    background-color: rgb(105, 105, 105);
+}
+footer{
+    background-color: rgb(105, 105, 105);
+}
+.mx-auto{
+    justify-content: center;
+    align-content: center;
+}
