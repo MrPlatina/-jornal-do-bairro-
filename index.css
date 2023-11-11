@@ -37,11 +37,29 @@ nav a:hover {
 }
 
 /*noticias*/
+#img4{
+    height: 400px;
+    width: 100px;
+}
+#img2{
+    height: 400px;
+    width: 100px;
+}
+#img3{
+    height: 400px;
+    width: 100px;
+}
+#carousel{
+    height: 400px;
+}
+#carousel-item{
+    height: 400px;
+}
 #s1{
     display: inline;
     display: flex;
     border: 3px solid black;
-    max-width: 1000px;
+    max-width: 2000px;
 }
 
 #st1{
@@ -57,7 +75,7 @@ nav a:hover {
     display: inline;
     display: flex;
     border: 3px solid black;
-    max-width: 1000px;
+    max-width: 2000px;
 
     #st2{
         font-size: medium ;}
