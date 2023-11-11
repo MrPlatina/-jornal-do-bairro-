@@ -1,0 +1,94 @@
+/*cabeçalho*/
+#cabeçalho{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;}
+#nome{
+    transform: scaleX(1) scaleY(1);
+
+}
+body{
+    background-color: rgb(105, 105, 105);
+}
+#pesquisar{
+    border-radius: 0.4rem;
+}
+body{
+    padding: 5px black;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+    cursor: pointer;
+}
+
+nav a:hover {
+    color: black;
+}
+
+/*noticias*/
+#img4{
+    height: 400px;
+    width: 100px;
+}
+#img2{
+    height: 400px;
+    width: 100px;
+}
+#img3{
+    height: 400px;
+    width: 100px;
+}
+#carousel{
+    height: 400px;
+}
+#carousel-item{
+    height: 400px;
+}
+#s1{
+    display: inline;
+    display: flex;
+    border: 3px solid black;
+    max-width: 2000px;
+}
+
+#st1{
+    font-size: medium ;
+    
+}
+#bw{
+    border-radius: 0.4rem;
+    background-color: gray;
+    justify-content:flex-end;
+}
+#s2{
+    display: inline;
+    display: flex;
+    border: 3px solid black;
+    max-width: 2000px;
+
+    #st2{
+        font-size: medium ;}
+    #bp{
+            border-radius: 0.4rem;
+            background-color: gray;
+            margin-left: 64px;
+        }
+
+/*extra*/
+::selection{
+    background-color: orange;
+}
+:active{
+    background-color: orange;
+}
